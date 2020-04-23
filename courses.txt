@@ -1,0 +1,9 @@
+CS 111;Computer Programming
+Fili 101;Kontekswalisadong Komunikasyon sa Filipino
+GEd 101;Understanding the Self
+GEd 102;Mathematics in the Modern World
+IT 111;Introduction to Computing
+Math 111;Linear Algebra
+NSTP 111;Military Science 1
+PE 101;Physical Fitness, Gymnastics Aerobics
+IT 421;System Quality Assurance
